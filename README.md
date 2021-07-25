@@ -8,6 +8,6 @@ This particular analysis is focused on producing a summary of ride-sharing/fare 
     *  [Ride Data](https://github.com/purvisjd/PyBer_Analysis/blob/main/Resources/ride_data.csv)
     *  [City Data](https://github.com/purvisjd/PyBer_Analysis/blob/main/Resources/city_data.csv)
 *  Charts created:
-    *  [PyBer Fare Summary](https://github/purvisjd/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png)
+    *  [PyBer Fare Summary](https://github.com/purvisjd/PyBer_Analysis/tree/main/Analysis/Pyber_fare_summary.png)
 *   Software Used:
     *  Anaconda, Jupyter Notebook 6.3.0
